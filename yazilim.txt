@@ -1,0 +1,7 @@
+halit: kenet
+masa:saat
+suheyla:kenet
+cahide:kenet
+ekrem:kenet
+
+melih:kilinc
